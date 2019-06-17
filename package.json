@@ -10,13 +10,12 @@
       "wp8"
     ]
   },
-    "cordovaPlugins": [
-    {
-      "variables": {
-        "SENDER_ID": "12345678"
-      },
-      "locator": "phonegap-plugin-push"
-    }],
+    "cordova": {
+        "plugins": {
+            "phonegap-plugin-push": {
+                "SENDER_ID": "12345"
+            },
+        },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZenCity/cordova-plugin-background-geolocation.git"
