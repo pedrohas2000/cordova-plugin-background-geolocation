@@ -4,7 +4,7 @@
 //  Created by Chris Scott <chris@transistorsoft.com>
 //
 
-#import "CordovaLib/Classes/CDVPlugin.h"
+#import "Classes/CDVPlugin.h"
 #import "CDVLocation.h"
 #import <AudioToolbox/AudioToolbox.h>
 
