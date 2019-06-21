@@ -4,7 +4,7 @@
 //  Created by Chris Scott <chris@transistorsoft.com>
 //
 
-#import "Public/CDVPlugin.h"
+#import "CDVPlugin.h"
 #import "CDVLocation.h"
 #import <AudioToolbox/AudioToolbox.h>
 
